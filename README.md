@@ -12,10 +12,10 @@ The EWS uses various tools, such as weather monitoring, satellite data, and sens
 When the system detects potential risks, it sends alerts to local communities, governments, and emergency teams, giving them time to take action—like evacuating people from flood-prone areas. This system helps reduce the risk of loss of life and property by providing critical time to prepare for an emergency.
 
                                                                                                    Team members
-                                                                                             1.Om Sudhakar Chaudhari. (TYAIML-211107002)
-                                                                                             2.Khushal Sunil Lohar. (TYAIML-211107003)
-                                                                                             3.Kundan Gajanan Patil. (TYAIML-211107028)
-                                                                                             4.Prathamesh Sanjay Khairnar (TYAIML-211107053)
+                                                                                       1.Om Sudhakar Chaudhari. (TYAIML-211107002)
+                                                                                       2.Khushal Sunil Lohar. (TYAIML-211107003)
+                                                                                       3.Kundan Gajanan Patil. (TYAIML-211107028)
+                                                                                       4.Prathamesh Sanjay Khairnar (TYAIML-211107053)
 
                                                                                              
 
